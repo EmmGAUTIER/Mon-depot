@@ -1,2 +1,6 @@
 Fichier créé à ubuntu
+<<<<<<< HEAD
 modifié vendredi 26 avril 2024 à 11h38
+=======
+modifié à stolvezen
+>>>>>>> 44c39b39cd8dc96c36693090eb85f75b2fb7ed94

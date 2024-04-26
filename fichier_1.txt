@@ -1,2 +1,7 @@
 Mon premier fichier
+<<<<<<< HEAD
+Petite diversion
+Modif du 10/04
+=======
 Diversion depuis ubuntu
+>>>>>>> a8fcec116b338da0660f2d87009c39650063b5de
